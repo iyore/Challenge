@@ -1,0 +1,10 @@
+on:
+push
+name: Conexion azure
+#  pull_request:
+#    branches:
+#      - main
+#  push:
+#    branches:
+#      - main
+
